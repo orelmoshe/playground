@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/index.css"],"names":[],"mappings":"AAAA,WAEC,WAAY,CACZ,UACD,CAEA,KACC,iBAAkB,CAClB,KAAM,CACN,QAAS,CACT,MAAO,CACP,OAAQ,CACR,QACD","file":"main.8aa0e6ed.chunk.css","sourcesContent":["html,\n#root {\n\theight: 100%;\n\twidth: 100%;\n}\n\nbody {\n\tposition: absolute;\n\ttop: 0;\n\tbottom: 0;\n\tleft: 0;\n\tright: 0;\n\tmargin: 0;\n}\n"]}
