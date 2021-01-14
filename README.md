@@ -2,7 +2,7 @@
 
 Technologies: React.js & Material ui
 
-link demo: [link](https://orelmoshe.github.io/DatePicker/)
+demo: [link](https://orelmoshe.github.io/DatePicker/)
 
 ---
 
